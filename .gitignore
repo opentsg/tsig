@@ -1,0 +1,3 @@
+generator
+# examples/
+!examples/*.yaml
